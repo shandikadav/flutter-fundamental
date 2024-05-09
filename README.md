@@ -9,9 +9,9 @@
 
 <h1>Cara Melihat Source Code</h1>
 <ol>
-  <li>Pilih Branch: Pergi ke tab "Branch" di atas daftar file.</li>
-  <li>Pilih Pertemuan: Pilih branch yang sesuai dengan source code yang ingin diakses.</li>
-  <li>Dapatkan Materi: Setelah beralih ke branch yang benar, Anda dapat melakukan clonning dari branch tersebut.</li>
+  <li>Pergi ke Menu Branch: Pergi ke tab "Branch" di atas daftar file.</li>
+  <li>Pilih Branch: Pilih branch yang sesuai dengan source code yang ingin diakses.</li>
+  <li>Clone Branch: Setelah beralih ke branch yang benar, Anda dapat melakukan clonning dari branch tersebut.</li>
 </ul>
 <br>
 <br>
